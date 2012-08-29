@@ -1,0 +1,21 @@
+{
+  "name": "mod-exp",
+  "version": "0.0.0",
+  "description": "modular exponentiation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:regality/mod-exp.git"
+  },
+  "keywords": [
+    "modular",
+    "exponentiation",
+    "exponent",
+    "math"
+  ],
+  "author": "Adam Blackburn",
+  "license": "MIT"
+}
